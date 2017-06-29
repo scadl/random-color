@@ -1,0 +1,9 @@
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Release\RandomColorVB.exe
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Release\RandomColorVB.pdb
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Release\RandomColorVB.xml
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Release\RandomColorVB.ColorerForm.resources
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Release\RandomColorVB.Resources.resources
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Release\ColorerVB.vbproj.GenerateResource.Cache
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Release\RandomColorVB.exe
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Release\RandomColorVB.xml
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Release\RandomColorVB.pdb

@@ -1,0 +1,40 @@
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ColorerForm.resources
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Admin\Desktop\ColorerVB'10\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ColorerForm.resources
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\[Works]\[Programming for DesktopPC]\GenColor (VB'10)\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ColorerForm.resources
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\[Works]\[Programming for DesktopPC]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\ColorerVB.vbproj.GenerateResource.Cache
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Debug\RandomColorVB.exe
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Debug\RandomColorVB.pdb
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\bin\Debug\RandomColorVB.xml
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\RandomColorVB.ColorerForm.resources
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\RandomColorVB.Resources.resources
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\ColorerVB.vbproj.GenerateResource.Cache
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\RandomColorVB.exe
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\RandomColorVB.xml
+C:\[Works]\[Programming for DesktopPC]\[Delphi]\Completed Projects\Random Color Generator(VB'10)\WindowsApplication1\obj\x86\Debug\RandomColorVB.pdb
